@@ -1,2 +1,3 @@
 # OpenX-tasks
-Tasks for the recrutement to OpenX process 
+Requirements: Java 17, JUnit4
+IDE: IntelliJ 
